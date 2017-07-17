@@ -1336,6 +1336,9 @@
     "compatibility": {
       "3.0": {
         "commit": "fdc02f188228666d56966fd4f82fb596f14576f1"
+      },
+      "3.1": {
+        "commit": "f170ca03fab69b31d3b576ed11af5869485944dc"
       }
     },
     "platforms": [
@@ -1380,7 +1383,10 @@
     "branch": "master",
     "compatibility": {
       "3.0": {
-        "commit": "1556b846de627cac0b96291ec2835fbc349c5e21"
+        "commit": "7edae8c3a99fcfa9ed1213d8f52d468292960f1d"
+      },
+      "3.1": {
+        "commit": "c4ca0982a23f5176e2a0b466aa3628647ead0b5c"
       }
     },
     "platforms": [
